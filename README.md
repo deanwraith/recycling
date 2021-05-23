@@ -69,7 +69,8 @@ Added if any at end of project
     Added content and styling to the header element with the basis for the menu to be adjusted at a later stage into a dropdown menu.
     * 12:21 23/05/2021 - Dropdown Button and Styling
     Added dropdown button functionality and styling.
-    
+    * 13:59 23/05/2021 - Dropdown Button and Styling
+    Dropdown button moved to right of page! Finally! Really struggled with this.
 ## 4. Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
