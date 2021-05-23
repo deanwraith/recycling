@@ -1,59 +1,80 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Recycling!
 
-Welcome USER_NAME,
+The Recycling! website was inspired by my current job. I work as a grade 3 teacher and the children are working on a unit covering Sustainability and sharing the planet. We are specifically focusing on recycling and all the different ways they can get involved and make a difference. This website will explain different aspects of recycling and give the users tips and additional resources to help them recycle more efficiently.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how important each one is and give some helpful information on how to go about implementing this in your everyday life. The information in the website will be simple to follow and include educational resources that all ages can learn from and understand.
 
-## Gitpod Reminders
+## 1.Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### 1.1 Balsamiq Mock Ups
+[Balsamiq](https://balsamiq.cloud/s1tadm0/p9i349d)
 
-`python3 -m http.server`
+### 1.2 Existing Features
+* Navigation Bar
+    * The navigation bar will be the same across all the pages on the website. It will contain the title of the site and a drop menu allowing easy navigation between the various pages.
+    * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle, Resources and FAQ/Send us a question.
+    * By having the same navigation bar on all pages allows ease of use and a simple way for the user to find the page they are looking for.
 
-A blue button should appear to click: _Make Public_,
+    **screenshot of navigation bar**
 
-Another blue button should appear to click: _Open Browser_.
+* Home Page Images
+    * The home page will consist of 4 or 5 images that will scroll from left to right to catch the users attention.
+    * There will also be a inspirational quote that will be under the images to help in inspiring the user to start using these concepts.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+ **screenshot of images and quote**
+    
+* 3R's Section
+    * The 3R’s section will give the user a visual break down of the best way to live more sustainably and environmentally friendly. There will be a color and image distinction for each section.
+    * Each block section and title will link to the specific page associated with the title and there will be a short history and description of the concept.
 
-A blue button should appear to click: _Make Public_,
+**screenshot of pages**
 
-Another blue button should appear to click: _Open Browser_.
+* The Footer
+    * The footer will include links to various social media sites.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+**screenshot of footer**
 
-To log into the Heroku toolbelt CLI:
+* Reuse, Reduce and Recycle
+    * Each of the concepts will have a page that has images and video resources with text descriptions and helpful tips on how to implement them in your everyday life.
+    * All three pages will have the same format and structure for ease of use and visual comfort. The pages will also have the same header and footer structure as the rest of the site.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+**screenshot of pages**
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidently make it public then you can create a new one with _Regenerate API Key_.
+* Resources Page
+    * The resources page will have links and guides on where to find more information and instructional guides on how to properly use the concepts.
 
-## Updates Since The Instructional Video
+* Q&A/Ask a question Page
+    * This page will have some frequently asked questions with the answers and a form where any other questions can be sent in and answered.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### 1.3 Features to be Added
+This will be where suggestions can be added and new features can be discussed.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## 2. Testing
+Additional text to be added once code has been written and testing started
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+### 2.1 Validation Testing
+* HTML
+    * W3C Validator
+* CSS
+    * Jigsaw Validator
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### 2.2 Unfixed Bugs
+Added if any at end of project
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## 3. Developement Cycle
+* Commit Diary
+    * 11:22 23/05/2021 - Initial Commit
+    Added boiler plate HTML and assets folder which includes the style.css file and a folder for media resources to be added at a later stage.
+    
+## 4. Deployment
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the Settings tab
+    * From the source section drop-down menu, select the Master Branch
+    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## 5. Credits
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
+* Content
+* Media
