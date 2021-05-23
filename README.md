@@ -65,6 +65,8 @@ Added if any at end of project
 * Commit Diary
     * 11:22 23/05/2021 - Initial Commit
     Added boiler plate HTML and assets folder which includes the style.css file and a folder for media resources to be added at a later stage.
+     * 11:44 23/05/2021 - Heading Style and Content
+    Added content and styling to the header element with the basis for the menu to be adjusted at a later stage into a dropdown menu.
     
 ## 4. Deployment
 
