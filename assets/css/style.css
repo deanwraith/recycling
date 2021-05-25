@@ -114,3 +114,12 @@ h2 {
   width: 100%;
   background: url(../images/kidssmall.jpg) no-repeat center center;
 }
+
+/* quote styling */
+
+#quote {
+  text-align: center;
+  color: #3a3a3a;
+  font-size: 180%;
+  letter-spacing: 2px;
+}
