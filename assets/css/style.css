@@ -15,7 +15,8 @@ body {
 /* headings and logo */
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: Montserrat, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -122,23 +123,38 @@ h2 {
 
 /* 3 R's summary section */
 
-#summary {
-  background-image: url(../images/kidssmall.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  overflow: hidden;
+.reuse {
+  color: black;
+  background-color: rgba(0, 128, 0, .6);
+  width: 30%;
+  height: 300px;
+  float: left;
+  padding: 30px 0 0 10px;
+  text-align: center;
+  border: 2px solid white;
+  box-sizing: border-box;
 }
 
-#summary div {
-  color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
-    width: 20%;
-    height: 300px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    border: 2px solid white;
-    box-sizing: border-box;
+.reduce {
+  color: black;
+  background-color: rgba(255, 0, 0, .6);
+  width: 30%;
+  height: 300px;
+  float: left;
+  padding: 30px 0 0 10px;
+  text-align: center;
+  border: 2px solid white;
+  box-sizing: border-box;
+}
+
+.recycle {
+  color: black;
+  background-color: rgba(255, 255, 0, .6);
+  width: 30%;
+  height: 300px;
+  float: left;
+  padding: 30px 0 0 10px;
+  text-align: center;
+  border: 2px solid white;
+  box-sizing: border-box;
 }
