@@ -25,7 +25,6 @@ h2 {
 #logo {
   float: left;
   font-size: 280%;
-  margin-left: 16px;
 }
 
 /* navigation links */
@@ -119,4 +118,27 @@ h2 {
   color: #3a3a3a;
   font-size: 180%;
   letter-spacing: 2px;
+}
+
+/* 3 R's summary section */
+
+#summary {
+  background-image: url(../images/kidssmall.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+#summary div {
+  color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
 }
