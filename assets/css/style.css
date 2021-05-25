@@ -23,6 +23,10 @@ h3 {
   color: #252525;
 }
 
+header {
+  height: 75px;
+}
+
 #logo {
   float: left;
   font-size: 280%;
@@ -157,4 +161,22 @@ h3 {
   text-align: center;
   border: 2px solid white;
   box-sizing: border-box;
+}
+
+/* social-networks */
+
+footer {
+  height: 150px;
+}
+.social-networks {
+  text-align: center;
+}
+.social-networks > li {
+  display: inline;
+}
+.social-networks i {
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #3a3a3a;
 }
