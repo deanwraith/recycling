@@ -73,6 +73,8 @@ Added if any at end of project
     Dropdown button moved to right of page! Finally! Really struggled with this.
     * 10:28 24/05/2021 - Header and dropdown
     Changed the header and dropdown button functionality and styling by using w3.css.
+    * 26/05/2021 and 27/05/2021 - Styling and functionality
+    Added styling to the summary section for the concepts. Fixed general styling and functionality for the header and dropdown button. Added footer with content. Added pages for concepts and styled them, used Flexbox which turned out to be great!
 ## 4. Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
