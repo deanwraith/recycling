@@ -180,3 +180,59 @@ footer {
   padding: 5%;
   color: #3a3a3a;
 }
+
+/* reuse styling */
+
+.flex-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(0, 128, 0, .6);
+  justify-content: center;
+}
+
+.flex-container-reduce {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(255, 0, 0, .6);
+  justify-content: center;
+}
+
+.flex-container-recycle {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(255, 255, 0, .6);
+  justify-content: center;
+}
+
+.flex-container > div {
+  background-color: white;
+  color: black;
+  width: 450px;
+  margin: 10px;
+  text-align: center;
+  line-height: 300px;
+  font-size: 30px;
+}
+
+.flex-container-reduce > div {
+  background-color: white;
+  color: black;
+  width: 450px;
+  margin: 10px;
+  text-align: center;
+  line-height: 300px;
+  font-size: 30px;
+}
+
+.flex-container-recycle > div {
+  background-color: white;
+  color: black;
+  width: 450px;
+  margin: 10px;
+  text-align: center;
+  line-height: 300px;
+  font-size: 30px;
+}
