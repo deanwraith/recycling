@@ -268,8 +268,20 @@ footer {
   font-size: 75%;
 }
 
+.reduce-expl p {
+  font-family: Raleway, sans-serif;
+  font-weight: 200;
+  font-size: 75%;
+}
+
+.recycle-expl p {
+  font-family: Raleway, sans-serif;
+  font-weight: 200;
+  font-size: 75%;
+}
+
 .tips {
-  line-height: 45px;
+  line-height: 35px;
   list-style-type: none;
 }
 
