@@ -127,7 +127,7 @@ header {
 
 /* 3 R's summary section */
 
-  .reuse {
+.reuse {
   color: black;
   background-color: rgba(0, 128, 0, .6);
   width: 33.33%;
@@ -168,12 +168,15 @@ header {
 footer {
   height: 150px;
 }
+
 .social-networks {
   text-align: center;
 }
-.social-networks > li {
+
+.social-networks>li {
   display: inline;
 }
+
 .social-networks i {
   font-size: 160%;
   margin: 1%;
@@ -207,37 +210,77 @@ footer {
   justify-content: center;
 }
 
-.flex-container > div {
-  background-color: white;
-  color: black;
-  width: 450px;
-  margin: 10px;
-  text-align: center;
-  line-height: 300px;
-  font-size: 30px;
+.flex-container-resources {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background-color: #3a3a3a;
+  justify-content: center;
 }
 
-.flex-container-reduce > div {
+.flex-container>div {
   background-color: white;
   color: black;
+  height: 300px;
   width: 450px;
   margin: 10px;
   text-align: center;
-  line-height: 300px;
-  font-size: 30px;
+  line-height: 45px;
+  font-size: 25px;
 }
 
-.flex-container-recycle > div {
+.flex-container-reduce>div {
   background-color: white;
   color: black;
+  height: 300px;
   width: 450px;
   margin: 10px;
   text-align: center;
-  line-height: 300px;
-  font-size: 30px;
+  line-height: 45px;
+  font-size: 25px;
+}
+
+.flex-container-recycle>div {
+  background-color: white;
+  color: black;
+  height: 300px;
+  width: 450px;
+  margin: 10px;
+  text-align: center;
+  line-height: 45px;
+  font-size: 25px;
+}
+
+.flex-container-resources>div {
+  background-color: white;
+  color: black;
+  height: 300px;
+  width: 450px;
+  margin: 10px;
+  text-align: center;
+  line-height: 45px;
+  font-size: 25px;
+}
+
+.reuse-expl p {
+  font-family: Raleway, sans-serif;
+  font-weight: 200;
+  font-size: 75%;
 }
 
 .tips {
-  font-size: 100%;
-  line-height: 60px;
+  line-height: 45px;
+  list-style-type: none;
+}
+
+.tips li {
+  font-family: Raleway, sans-serif;
+  font-weight: 200;
+  font-size: 75%;
+}
+
+#reuse-image {
+  height: 300px;
+  width: 450px;
+  background: url(../images/kidssmall.jpg) no-repeat center center;
 }
