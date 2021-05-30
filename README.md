@@ -73,8 +73,19 @@ Added if any at end of project
     Dropdown button moved to right of page! Finally! Really struggled with this.
     * 10:28 24/05/2021 - Header and dropdown
     Changed the header and dropdown button functionality and styling by using w3.css.
-    * 26/05/2021 and 27/05/2021 - Styling and functionality
+    * 24/05/2021 - Header and dropdown
+    Removed the w3.css style templates and added my own code for the header and dropdown menu. Added styling and functionality to the header and dropdown menu.
+    * 25/05/2021 - Main Image and Quote text
+    Added the main image and quote text and added styling to both elements.
+    * 25/05/2021 - Summary Section
+    Added content and styling to the summary section.
+    * 27/05/2021 - Styling and functionality
     Added styling to the summary section for the concepts. Fixed general styling and functionality for the header and dropdown button. Added footer with content. Added pages for concepts and styled them, used Flexbox which turned out to be great!
+    * 27/05/2021 - Pages
+    Added structure and functionality for additional pages. Followed with content and styling.
+    * 30/05/2021 - Pages and Media Queries
+    Added and adjusted content and functionality for Reuse, Reduce and Recycling pages. Changed the structure and styling of the summary section on the home page. Added content and functionality to the FAQ including a form to send questions.
+
 ## 4. Deployment
 
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -86,4 +97,5 @@ Added if any at end of project
 ## 5. Credits
 
 * Content
+    
 * Media
