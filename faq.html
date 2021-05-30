@@ -44,35 +44,68 @@
     </header>
     <div class="container">
         <form action="action_page.php">
-          <div class="row">
-            <div class="col-25">
-              <label for="fname">First Name</label>
+            <div class="row">
+                <div class="col-25">
+                    <label for="fname">First Name</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                </div>
             </div>
-            <div class="col-75">
-              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+            <div class="row">
+                <div class="col-25">
+                    <label for="lname">Last Name</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col-25">
-              <label for="lname">Last Name</label>
+            <div class="row">
+                <div class="col-25">
+                    <label for="email">Email Address</label>
+                </div>
+                <div class="col-75">
+                    <input type="text" id="email" name="email" placeholder="Your email address..">
+                </div>
             </div>
-            <div class="col-75">
-              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+            <div class="row">
+                <div class="col-25">
+                    <label for="question">Question</label>
+                </div>
+                <div class="col-75">
+                    <textarea id="subject" name="subject" placeholder="Write something.."
+                        style="height:200px"></textarea>
+                </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col-25">
-              <label for="question">Question</label>
+            <div class="row">
+                <input type="submit" value="Submit">
             </div>
-            <div class="col-75">
-              <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-            </div>
-          </div>
-          <div class="row">
-            <input type="submit" value="Submit">
-          </div>
         </form>
-      </div> 
+    </div>
+    <br>
+    <section style="text-align: center;">
+        <p>Have a look below and read some of the more common questions. If the question you have does not
+            show up below please send it to us in the space above and we will get back to you as soon as we
+            can.
+        </p>
+    </section>
+    <br>
+    <section class="questions">
+        <h3>1. What happens when you put everything in one recycling bin?</h3>
+        <p>Before you had to seperate trash into specific bins but now most facilities use technology like
+            magnets, electric currents and lasers to sort all the trash.
+        </p>
+        <br>
+        <h3>2. Can aluminium foil be recycled?</h3>
+        <p>Yes it can be recycled but not all recycling facilities will accept it. Some of the reasons that
+            facilities wont accept it are that it is to thin or that it is covered with to much food.
+        </p>
+        <br>
+        <h3>3. Is glass recyclable?</h3>
+        <p>Yes glass can be recycled. It may however be rejected if it is broken. Glass is a great option to
+            reuse for multiple purposes.
+        </p>
+    </section>
     <footer>
         <ul class="social-networks">
             <li>
