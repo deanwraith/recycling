@@ -294,7 +294,19 @@ footer {
 #reuse-image {
   height: 300px;
   width: 450px;
-  background: url(../images/kidssmall.jpg) no-repeat center center;
+  background: url(../images/mansmallresize.jpg) no-repeat center center;
+}
+
+#reduce-image {
+  height: 300px;
+  width: 450px;
+  background: url(../images/reuseresized.jpg) no-repeat center center;
+}
+
+#recycle-image {
+  height: 300px;
+  width: 450px;
+  background: url(../images/logosmallresize.jpg) no-repeat center center;
 }
 
 /* question form */
