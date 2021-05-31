@@ -97,5 +97,8 @@ Added if any at end of project
 ## 5. Credits
 
 * Content
+    * W3Schools - Used the resources as a guideline for various functionality. I used parts of the code supplied in the tutorials as a guideline and adjusted it where necessary for the dropdown menu styling and functionality. The flexbox tutorial to style the summary section on the home page and the content of the Reuse, Reduce and Recycle pages. I also used the responsiveness tutorial to adjust the flexbox sections for smaller resolutions. Finally I code in thr forms tutorial to style my question form and adjusted it to fit what I required the form to show. I also used the responsive code for the form to function.
     
 * Media
+ * The images I used in the site were downloaded from Shutterstock using the verified licences.
+ * Videos were linked directly from the respective youtube pages.
