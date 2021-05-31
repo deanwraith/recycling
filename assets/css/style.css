@@ -349,6 +349,13 @@ input[type=submit] {
     height: 200px;
   }
 
+  .flex-container>div,
+  .flex-container-recycle>div,
+  .flex-container-reduce>div {
+    width: 100%;
+    font-size: 125%;
+  }
+
   #cover-image {
     height: 450px;
   }
@@ -374,7 +381,7 @@ input[type=submit] {
     font-size: 25px;
   }
 
-  .flex-container-home > div {
+  .flex-container-home>div {
     font-size: 20px;
   }
 }
