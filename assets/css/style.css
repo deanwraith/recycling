@@ -363,3 +363,18 @@ input[type=submit] {
     margin-top: 0;
   }
 }
+
+/* For small screen sizes from 420px wide and down */
+@media screen and (max-width: 420px) {
+  #logo {
+    font-size: 210%;
+  }
+
+  .dropbtn {
+    font-size: 25px;
+  }
+
+  .flex-container-home > div {
+    font-size: 20px;
+  }
+}
