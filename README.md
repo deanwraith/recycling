@@ -15,7 +15,7 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
     * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle, Resources and FAQ/Send us a question.
     * By having the same navigation bar on all pages allows ease of use and a simple way for the user to find the page they are looking for.
 
-    **screenshot of navigation bar**
+**navigation bar image**
 
 * Home Page Images
     * The home page will consist of 4 or 5 images that will scroll from left to right to catch the users attention.
@@ -97,5 +97,5 @@ Added if any at end of project
     * W3Schools - Used the resources as a guideline for various functionality. I used parts of the code supplied in the tutorials as a guideline and adjusted it where necessary for the dropdown menu styling and functionality. The flexbox tutorial to style the summary section on the home page and the content of the Reuse, Reduce and Recycle pages. I also used the responsiveness tutorial to adjust the flexbox sections for smaller resolutions. Finally I code in thr forms tutorial to style my question form and adjusted it to fit what I required the form to show. I also used the responsive code for the form to function.
     
 * Media
- * The images I used in the site were downloaded from Shutterstock using the verified licences.
- * Videos were linked directly from the respective youtube pages.
+    * The images I used in the site were downloaded from Shutterstock using the verified licences.
+    * Videos were linked directly from the respective youtube pages.
