@@ -15,7 +15,7 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
     * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle, Resources and FAQ/Send us a question.
     * By having the same navigation bar on all pages allows ease of use and a simple way for the user to find the page they are looking for.
 
-**navigation bar image**
+![Navigation bar with no menu](/images/readme-images/navigation bar.png)
 
 * Home Page Images
     * The home page will consist of 4 or 5 images that will scroll from left to right to catch the users attention.
