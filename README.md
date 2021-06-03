@@ -17,49 +17,65 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
 
 ![Navigation bar with no menu](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/navigation%20bar.png)
 
+![Navigation bar with menu open](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/navigation%20bar%202.png)
+
 * Home Page Images
     * The home page will consist of 4 or 5 images that will scroll from left to right to catch the users attention.
     * There will also be a inspirational quote that will be under the images to help in inspiring the user to start using these concepts.
 
- **screenshot of images and quote**
+![Cover image of children picking up trash and inspirational quote](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/cover%20image%20and%20quote.png)
     
 * 3R's Section
     * The 3R’s section will give the user a visual break down of the best way to live more sustainably and environmentally friendly. There will be a color and image distinction for each section.
     * Each block section and title will link to the specific page associated with the title and there will be a short history and description of the concept.
 
-**screenshot of pages**
+![Summary section for Reuse, Reduse and Recycle](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/3rs%20section.png)
 
 * The Footer
     * The footer will include links to various social media sites.
 
-**screenshot of footer**
+![Footer containing social media links](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/footer.png)
+
 
 * Reuse, Reduce and Recycle
     * Each of the concepts will have a page that has images and video resources with text descriptions and helpful tips on how to implement them in your everyday life.
     * All three pages will have the same format and structure for ease of use and visual comfort. The pages will also have the same header and footer structure as the rest of the site.
 
-**screenshot of pages**
+![Reuse page](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/reuse%20page.png)
 
-* Resources Page
-    * The resources page will have links and guides on where to find more information and instructional guides on how to properly use the concepts.
+![Reduce page](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/reudce%20page.png)
+
+![Recycle page](https://github.com/deanwraith/recycling/blob/master/assets/images/recycle%20page.jpg)
 
 * Q&A/Ask a question Page
     * This page will have some frequently asked questions with the answers and a form where any other questions can be sent in and answered.
 
+![Question form](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/faq%20form.png)
+
+![FAQ section](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/faq%20questions.png)
+
 ### 1.3 Features to be Added
-This will be where suggestions can be added and new features can be discussed.
+*Features can be discussed and added*
 
 ## 2. Testing
-Additional text to be added once code has been written and testing started
+Testing of the site was done through the whole development of the site checking as a new feature or style was added on how that effected the specific pages and the functionality.
+
+Responsiveness testing was done using several mobile devices of different size to see the site effectiveness at different resolutions. 
+The devices used were:
+    * Iphone SE
+    * IPad
+    * HP Elite Book Laptop as well as the Inspect function on Google Chrome Browser to test most resolutions and devices.
 
 ### 2.1 Validation Testing
 * HTML
     * W3C Validator
+    All HTML code was checked using this validator and was returned without any issues.
 * CSS
     * Jigsaw Validator
+    All css code was tested using this validator and was returned with no issues.
 
 ### 2.2 Unfixed Bugs
-Added if any at end of project
+    * I found a bug while using mobile devices where the hover setting for the dropdown menu changed to a click and drop function by default but the menu stayed open once clicked on that page even if the menu icon was clicked again.
 
 ## 3. Developement Cycle
 * Commit Diary
@@ -94,6 +110,8 @@ Added if any at end of project
 ## 5. Credits
 
 * Content
+    * Google fonts - The special fonts used for the project were sourced from Google fonts.
+    * Font Awesome - The icons used in the project were sourced from Font Awesome
     * W3Schools - Used the resources as a guideline for various functionality. I used parts of the code supplied in the tutorials as a guideline and adjusted it where necessary for the dropdown menu styling and functionality. The flexbox tutorial to style the summary section on the home page and the content of the Reuse, Reduce and Recycle pages. I also used the responsiveness tutorial to adjust the flexbox sections for smaller resolutions. Finally I code in thr forms tutorial to style my question form and adjusted it to fit what I required the form to show. I also used the responsive code for the form to function.
     
 * Media
