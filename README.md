@@ -75,7 +75,7 @@ The devices used were:
     All css code was tested using this validator and was returned with no issues.
 
 ### 2.2 Unfixed Bugs
-    * I found a bug while using mobile devices where the hover setting for the dropdown menu changed to a click and drop function by default but the menu stayed open once clicked on that page even if the menu icon was clicked again.
+* I found a bug while using mobile devices where the hover setting for the dropdown menu changed to a click and drop function by default but the menu stayed open once clicked on that page even if the menu icon was clicked again.
 
 ## 3. Developement Cycle
 * Commit Diary
