@@ -101,6 +101,8 @@ The devices used were:
     Added structure and functionality for additional pages. Followed with content and styling.
     * 30/05/2021 - Pages and Media Queries
     Added and adjusted content and functionality for Reuse, Reduce and Recycling pages. Changed the structure and styling of the summary section on the home page. Added content and functionality to the FAQ including a form to send questions.
+    * 08/06/2021 - Adjusted padding and margins
+    Added styling adjustments to logo, menu, quote and text on Reuse/Reduce and Recycle pages. Adjusted padding and margins for these elements.
 
 ## 4. Deployment
 
