@@ -30,6 +30,7 @@ header {
 #logo {
   float: left;
   font-size: 280%;
+  padding-left: 10px;
 }
 
 /* navigation links */
@@ -63,7 +64,7 @@ header {
 .dropbtn {
   background-color: white;
   color: black;
-  padding: 10px;
+  padding: 15px 10px 0 0;
   font-size: 35px;
   border: none;
   cursor: pointer;
@@ -99,7 +100,7 @@ header {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: rgba(255, 255, 0, 0.6);
+  background-color: white;
 }
 
 /* cover image */
@@ -117,6 +118,7 @@ header {
   color: #3a3a3a;
   font-size: 160%;
   letter-spacing: 2px;
+  padding: 0 5px 0 5px;
 }
 
 /* 3 R's summary section */
@@ -133,7 +135,7 @@ header {
   width: 33.33%;
   height: 300px;
   margin: 10px;
-  padding: 20px 0;
+  padding: 20px 10px 0 10px;
   font-size: 30px;
   color: black;
   text-align: center;
@@ -190,6 +192,7 @@ footer {
   font-family: Raleway, sans-serif;
   font-weight: 200;
   font-size: 75%;
+  margin: 0 10px 0 10px;
 }
 
 #reuse-image {
@@ -223,6 +226,7 @@ footer {
   font-family: Raleway, sans-serif;
   font-weight: 200;
   font-size: 75%;
+  margin: 0 10px 0 10px;
 }
 
 #reduce-image {
@@ -256,6 +260,7 @@ footer {
   font-family: Raleway, sans-serif;
   font-weight: 200;
   font-size: 75%;
+  margin: 0 10px 0 10px;
 }
 
 #recycle-image {
@@ -267,6 +272,7 @@ footer {
 .tips {
   line-height: 35px;
   list-style-type: none;
+  margin: 0 10px 0 10px;
 }
 
 .tips li {
