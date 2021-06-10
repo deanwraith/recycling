@@ -30,7 +30,7 @@ header {
 #logo {
   float: left;
   font-size: 280%;
-  padding-left: 10px;
+  padding-left: 20px;
 }
 
 /* navigation links */
@@ -123,27 +123,44 @@ header {
 
 /* 3 R's summary section */
 
-.flex-container-home {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
-.flex-container-home>div {
+.flip-card {
+  background-color: transparent;
   width: 33.33%;
-  height: 300px;
-  margin: 10px;
-  padding: 20px 10px 0 10px;
-  font-size: 30px;
-  color: black;
-  text-align: center;
+  height: 225px;
+  float: left;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
 }
 
-.flex-container-home p {
-  font-family: Raleway, sans-serif;
-  font-size: 100%;
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  color: black;
+}
+
+.flip-card-back {
+  color: #3a3a3a;
+  transform: rotateY(180deg);
 }
 
 /* footer */
@@ -335,6 +352,7 @@ input[type=submit] {
 
 .questions {
   text-align: center;
+  padding: 0 10px 0 10px;
 }
 
 /* Media queries */
@@ -344,15 +362,9 @@ input[type=submit] {
 
   .flex-container,
   .flex-container-recycle,
-  .flex-container-reduce,
-  .flex-container-home {
+  .flex-container-reduce {
     flex-direction: column;
     align-items: center;
-  }
-
-  .flex-container-home>div {
-    width: 65%;
-    height: 200px;
   }
 
   .flex-container>div,
@@ -375,6 +387,10 @@ input[type=submit] {
     width: 100%;
     margin-top: 0;
   }
+
+  .flip-card {
+    width: 100%;
+  }
 }
 
 /* For small screen sizes from 420px wide and down */
@@ -385,9 +401,5 @@ input[type=submit] {
 
   .dropbtn {
     font-size: 25px;
-  }
-
-  .flex-container-home>div {
-    font-size: 20px;
   }
 }

@@ -4,6 +4,28 @@ The Recycling! website was inspired by my current job. I work as a grade 3 teach
 
 The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how important each one is and give some helpful information on how to go about implementing this in your everyday life. The information in the website will be simple to follow and include educational resources that all ages can learn from and understand.
 
+## Table of Contents
+
+<ol>
+<li>
+Features
+<ol>
+<li>Balsamiq Mock Ups</li>
+<li>Existing Features</li>
+<li>Features to be added</li>
+</ol>
+</li>
+<li>
+Testing
+<ol>
+<li>Validation Testing</li>
+</ol>
+</li>
+<li>Developement Cycle</li>
+<li>Deployment</li>
+<li>Credits</li>
+</ol>
+
 ## 1.Features
 
 ### 1.1 Balsamiq Mock Ups
@@ -12,7 +34,7 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
 ### 1.2 Existing Features
 * Navigation Bar
     * The navigation bar will be the same across all the pages on the website. It will contain the title of the site and a drop menu allowing easy navigation between the various pages.
-    * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle, Resources and FAQ/Send us a question.
+    * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle and FAQ/Send us a question.
     * By having the same navigation bar on all pages allows ease of use and a simple way for the user to find the page they are looking for.
 
 ![Navigation bar with no menu](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/navigation%20bar.png)
@@ -20,14 +42,14 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
 ![Navigation bar with menu open](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/navigation%20bar%202.png)
 
 * Home Page Images
-    * The home page will consist of 4 or 5 images that will scroll from left to right to catch the users attention.
+    * The home page will consist of a hero image that will extend the width of the page catch the users attention.
     * There will also be a inspirational quote that will be under the images to help in inspiring the user to start using these concepts.
 
 ![Cover image of children picking up trash and inspirational quote](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/cover%20image%20and%20quote.png)
     
 * 3R's Section
-    * The 3R’s section will give the user a visual break down of the best way to live more sustainably and environmentally friendly. There will be a color and image distinction for each section.
-    * Each block section and title will link to the specific page associated with the title and there will be a short history and description of the concept.
+    * The 3R’s section will give the user a visual break down of the best way to live more sustainably and environmentally friendly. There will be a color and text distinction for each section.
+    * Each block section will have a flip functionality that when flipped by hovering the mouse over the card there will be additional information on the back.
 
 ![Summary section for Reuse, Reduse and Recycle](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/3rs%20section.png)
 
@@ -60,11 +82,19 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
 ## 2. Testing
 Testing of the site was done through the whole development of the site checking as a new feature or style was added on how that effected the specific pages and the functionality.
 
+* Logo functionality - When the logo is clicked it will take you back to the home page. **Tested and passed**.
+* Menu icon - When hovered over with cursor the menu dropsdown to display available pages. These can be clicked and will take you to the respective pages. In the dropdown the current page will be underlined and the page the cursor runs over will be underlined. **Tested and passed**
+* Reuse, Reduce and Recycle cards - When hovered over with the mouse cursor the card will flip to display more information about the section. **Tested and passed**
+* Footer - In the footer it contains 4 social media icons that link to the respective social media page. **Tested and passed**
+* Reuse, Reduce and Recycle pages - There are 4 sections per page with the bottom right section containing a video. The video does not play automatically but starts once clicked. **Tested and passed**
+* Header and footer - Function the same on all pages. **Tested and passed**
+* Hover function on menu and flip cards for mobile changes to click function. Menu does not close on click.
+
 Responsiveness testing was done using several mobile devices of different size to see the site effectiveness at different resolutions. 
 The devices used were:
-    * Iphone SE
-    * IPad
-    * HP Elite Book Laptop as well as the Inspect function on Google Chrome Browser to test most resolutions and devices.
+* Iphone SE
+* IPad
+* HP Elite Book Laptop as well as the Inspect function on Google Chrome Browser to test most resolutions and devices.
 
 ### 2.1 Validation Testing
 * HTML
@@ -103,6 +133,8 @@ The devices used were:
     Added and adjusted content and functionality for Reuse, Reduce and Recycling pages. Changed the structure and styling of the summary section on the home page. Added content and functionality to the FAQ including a form to send questions.
     * 08/06/2021 - Adjusted padding and margins
     Added styling adjustments to logo, menu, quote and text on Reuse/Reduce and Recycle pages. Adjusted padding and margins for these elements.
+    * 10/06/2021 - Added styling to 3R's section
+    Added new functionality and styling to the 3R's description section. Also added responsiveness for this new section.
 
 ## 4. Deployment
 
