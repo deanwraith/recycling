@@ -37,9 +37,9 @@ Testing
     * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle and FAQ/Send us a question.
     * By having the same navigation bar on all pages allows ease of use and a simple way for the user to find the page they are looking for.
 
-![Navigation bar with no menu](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/navigation%20bar.png)
+![Navigation bar with no menu](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/nav%20bar%20no%20menu.jpg)
 
-![Navigation bar with menu open](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/navigation%20bar%202.png)
+![Navigation bar with menu open](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/nav%20bar%20with%20menu.jpg)
 
 * Home Page Images
     * The home page will consist of a hero image that will extend the width of the page catch the users attention.
@@ -51,7 +51,9 @@ Testing
     * The 3R’s section will give the user a visual break down of the best way to live more sustainably and environmentally friendly. There will be a color and text distinction for each section.
     * Each block section will have a flip functionality that when flipped by hovering the mouse over the card there will be additional information on the back.
 
-![Summary section for Reuse, Reduse and Recycle](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/3rs%20section.png)
+![Summary section for Reuse, Reduse and Recycle no flip](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/summary%20section%20no%20flip.jpg)
+
+![Summary section for Reuse, Reduse and Recycle with flip](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/summary%20section%20with%20flip.jpg)
 
 * The Footer
     * The footer will include links to various social media sites.
