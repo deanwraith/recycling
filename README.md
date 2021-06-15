@@ -1,6 +1,6 @@
-# Recycling! https://deanwraith.github.io/recycling/
+# Recycling!
 
-The Recycling! website was inspired by my current job. I work as a grade 3 teacher and the children are working on a unit covering Sustainability and sharing the planet. We are specifically focusing on recycling and all the different ways they can get involved and make a difference. This website will explain different aspects of recycling and give the users tips and additional resources to help them recycle more efficiently.
+The Recycling! (https://deanwraith.github.io/recycling/) website was inspired by my current job. I work as a grade 3 teacher and the children are working on a unit covering Sustainability and sharing the planet. We are specifically focusing on recycling and all the different ways they can get involved and make a difference. This website will explain different aspects of recycling and give the users tips and additional resources to help them recycle more efficiently.
 
 The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how important each one is and give some helpful information on how to go about implementing this in your everyday life. The information in the website will be simple to follow and include educational resources that all ages can learn from and understand.
 
