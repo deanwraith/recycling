@@ -29,7 +29,16 @@ Testing
 ## 1.Features
 
 ### 1.1 Balsamiq Mock Ups
-[Balsamiq](https://balsamiq.cloud/s1tadm0/p9i349d)
+Below are mock-ups made using Balsamiq showing the original design of the site on desktop and mobile.
+
+![Home page mock-up desktop](https://github.com/deanwraith/recycling/blob/master/assets/images/home-page.png)
+![Home page mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/home-page-mobile.png)
+
+![Reuse reduce recycle pages mock-up desktop](https://github.com/deanwraith/recycling/blob/master/assets/images/3rs-page.png)
+![Reuse reduce recycle pages mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/3rs-page-mobile.png)
+
+![FAQ page mock-up desktop](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page.png)
+![FAQ page mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page-mobile.png)
 
 ### 1.2 Existing Features
 * Navigation Bar
@@ -76,7 +85,7 @@ Testing
 
 ![Question form](https://github.com/deanwraith/recycling/blob/master/assets/images/faq_form.png)
 
-![FAQ section](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page.png)
+![FAQ section](https://github.com/deanwraith/recycling/blob/master/assets/images/questions.png)
 
 ### 1.3 Features to be Added
 *Features can be discussed and added*
