@@ -160,6 +160,8 @@ The devices used were:
     Added styling adjustments to logo, menu, quote and text on Reuse/Reduce and Recycle pages. Adjusted padding and margins for these elements.
     * 10/06/2021 - Added styling to 3R's section
     Added new functionality and styling to the 3R's description section. Also added responsiveness for this new section.
+    * 20/06/2021 - Added functionality and content
+    Added functionality to the FAQ form in with a required tag so information has to be input otherwise the form can not be submitted. Also a url was added for the placement of the data after submit was clicked. Images with the correct naming were added and the README.md file was edited.
 
 ## 5. Technology Used
 
