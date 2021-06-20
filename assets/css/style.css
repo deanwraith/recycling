@@ -108,7 +108,7 @@ header {
 #cover-image {
   height: 600px;
   width: 100%;
-  background: url(../images/kidssmall.jpg) no-repeat center center;
+  background: url(../images/kids_recycling.jpg) no-repeat center center;
 }
 
 /* quote styling */
@@ -215,7 +215,7 @@ footer {
 #reuse-image {
   height: 300px;
   width: 450px;
-  background: url(../images/mansmallresize.jpg) no-repeat center center;
+  background: url(../images/recycling_bottles.jpg) no-repeat center center;
 }
 
 /* reduce styling */
@@ -249,7 +249,7 @@ footer {
 #reduce-image {
   height: 300px;
   width: 450px;
-  background: url(../images/reuseresized.jpg) no-repeat center center;
+  background: url(../images/reuse_clothes.jpg) no-repeat center center;
 }
 
 /* recycle styling */
@@ -283,7 +283,7 @@ footer {
 #recycle-image {
   height: 300px;
   width: 450px;
-  background: url(../images/logosmallresize.jpg) no-repeat center center;
+  background: url(../images/recycling_plants.jpg) no-repeat center center;
 }
 
 .tips {
