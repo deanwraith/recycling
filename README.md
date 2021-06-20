@@ -28,16 +28,22 @@ Testing
 
 ## 1.Features
 
-### 1.1 Balsamiq Mock Ups
+### 1.1 Balsamiq Mock-Ups
 Below are mock-ups made using Balsamiq showing the original design of the site on desktop and mobile.
 
+**Home Page Mock-Up Desktop**
 ![Home page mock-up desktop](https://github.com/deanwraith/recycling/blob/master/assets/images/home-page.png)
+**Home Page Mock-Up Mobile**
 ![Home page mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/home-page-mobile.png)
 
+**Reuse, Reduce and Recycle Mock-Up Desktop**
 ![Reuse reduce recycle pages mock-up desktop](https://github.com/deanwraith/recycling/blob/master/assets/images/3rs-page.png)
+**Reuse, Reduce and Recycle Mock-Up Mobile**
 ![Reuse reduce recycle pages mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/3rs-page-mobile.png)
 
+**FAQ Page Mock-Up Desktop**
 ![FAQ page mock-up desktop](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page.png)
+**FAQ Page Mock-Up Mobile**
 ![FAQ page mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page-mobile.png)
 
 ### 1.2 Existing Features
