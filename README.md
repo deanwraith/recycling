@@ -7,6 +7,7 @@ The website will focus on the 3 R's; Reuse, Reduce and Recycle, and explain how 
 ## Table of Contents
 
 <ol>
+<li>UX</li>
 <li>
 Features
 <ol>
@@ -22,13 +23,17 @@ Testing
 </ol>
 </li>
 <li>Developement Cycle</li>
+<li>Technology Used</li>
 <li>Deployment</li>
 <li>Credits</li>
 </ol>
 
-## 1.Features
+## 1.UX
+The UX considerations during the design process of the site were focused on keeping the styling simple and uniform through out the site. For first time users the focus was placed on simple, clear and interesting information and easy to follow tips and tricks to get started. Return users can get additional interest through following deeper and asking more specific questions and revisiting the FAQ page to get an idea of what other visitors have been asking and what that might lead them to want to know more about. They can also follow the videos to youtube and explore deeper into what the subject has to offer and other content makers have for these users.
 
-### 1.1 Balsamiq Mock-Ups
+## 2.Features
+
+### 2.1 Balsamiq Mock-Ups
 Below are mock-ups made using Balsamiq showing the original design of the site on desktop and mobile.
 
 **Home Page Mock-Up Desktop**
@@ -49,7 +54,7 @@ Below are mock-ups made using Balsamiq showing the original design of the site o
 **FAQ Page Mock-Up Mobile**
 ![FAQ page mock-up mobile](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page-mobile.png)
 
-### 1.2 Existing Features
+### 2.2 Existing Features
 * Navigation Bar
     * The navigation bar will be the same across all the pages on the website. It will contain the title of the site and a drop menu allowing easy navigation between the various pages.
     * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle and FAQ/Send us a question.
@@ -96,10 +101,10 @@ Below are mock-ups made using Balsamiq showing the original design of the site o
 
 ![FAQ section](https://github.com/deanwraith/recycling/blob/master/assets/images/questions.png)
 
-### 1.3 Features to be Added
+### 2.3 Features to be Added
 *Features can be discussed and added*
 
-## 2. Testing
+## 3. Testing
 Testing of the site was done through the whole development of the site checking as a new feature or style was added on how that effected the specific pages and the functionality.
 
 * Logo functionality - When the logo is clicked it will take you back to the home page. **Tested and passed**.
@@ -108,7 +113,7 @@ Testing of the site was done through the whole development of the site checking 
 * Footer - In the footer it contains 4 social media icons that link to the respective social media page. **Tested and passed**
 * Reuse, Reduce and Recycle pages - There are 4 sections per page with the bottom right section containing a video. The video does not play automatically but starts once clicked. **Tested and passed**
 * Header and footer - Function the same on all pages. **Tested and passed**
-* Hover function on menu and flip cards for mobile changes to click function. Menu does not close on click.
+* Hover function on menu and flip cards for mobile changes to click function. **Menu does not close on click**.
 
 Responsiveness testing was done using several mobile devices of different size to see the site effectiveness at different resolutions. 
 The devices used were:
@@ -116,7 +121,7 @@ The devices used were:
 * IPad
 * HP Elite Book Laptop as well as the Inspect function on Google Chrome Browser to test most resolutions and devices.
 
-### 2.1 Validation Testing
+### 3.1 Validation Testing
 * HTML
     * W3C Validator
     All HTML code was checked using this validator and was returned without any issues.
@@ -124,10 +129,10 @@ The devices used were:
     * Jigsaw Validator
     All css code was tested using this validator and was returned with no issues.
 
-### 2.2 Unfixed Bugs
-* I found a bug while using mobile devices where the hover setting for the dropdown menu changed to a click and drop function by default but the menu stayed open once clicked on that page even if the menu icon was clicked again.
+### 3.2 Unfixed Bugs
+* I found a bug while using mobile devices where the hover setting for the dropdown menu and flip cards changed to a click and drop/flip function by default but the menu stayed open once clicked on that page even if the menu/card icon was clicked again. *My research into how to fix this bug showed that you could use java script and jquery to help the site recognize when it is being viewed on a mobile device to allow the hover function to change to a click function where a second click will close the menu or flip the card back. I felt at this stage of my studies this would involve me skipping ahead and missing some foundational work with java script and that is why I left the bug active*.
 
-## 3. Developement Cycle
+## 4. Developement Cycle
 * Commit Diary
     * 11:22 23/05/2021 - Initial Commit
     Added boiler plate HTML and assets folder which includes the style.css file and a folder for media resources to be added at a later stage.
@@ -156,12 +161,25 @@ The devices used were:
     * 10/06/2021 - Added styling to 3R's section
     Added new functionality and styling to the 3R's description section. Also added responsiveness for this new section.
 
-## 4. Deployment
+## 5. Technology Used
 
-* The site has been deployed using Github Pages.
-    * The site can be found at https://deanwraith.github.io/recycling/
+* HTML 5
+* CSS
+* Github
+* Gitpod
+* Balsamiq
 
-## 5. Credits
+## 6. Deployment
+
+The site has been deployed using Github Pages.
+
+* In the Github repository page for deanwraith/recycling the settings tab was selected.
+* In the settings page the Github Pages section was located towards the bottom of the page, with the new version there is a link to the dedicated Pages tab which was navigated to once the hyperlink text was selected.
+* Once on the Pages tab the master branch tab was selected in the source section and then save was clicked.
+
+* The site was then live and can be found at https://deanwraith.github.io/recycling/
+
+## 7. Credits
 
 * Content
     * Google fonts - The special fonts used for the project were sourced from Google fonts.
