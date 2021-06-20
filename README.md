@@ -37,46 +37,46 @@ Testing
     * The pages that will be accessable from the drop down menu will be Home, Reuse, Reduce, Recycle and FAQ/Send us a question.
     * By having the same navigation bar on all pages allows ease of use and a simple way for the user to find the page they are looking for.
 
-![Navigation bar with no menu](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/nav%20bar%20no%20menu.jpg)
+![Navigation bar with no menu](https://github.com/deanwraith/recycling/blob/master/assets/images/nav_bar_no_menu.png)
 
-![Navigation bar with menu open](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/nav%20bar%20with%20menu.jpg)
+![Navigation bar with menu open](https://github.com/deanwraith/recycling/blob/master/assets/images/nav_bar_menu.png)
 
 * Home Page Images
     * The home page will consist of a hero image that will extend the width of the page catch the users attention.
     * There will also be a inspirational quote that will be under the images to help in inspiring the user to start using these concepts.
 
-![Cover image of children picking up trash and inspirational quote](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/cover%20image%20and%20quote.png)
+![Cover image of children picking up trash and inspirational quote](https://github.com/deanwraith/recycling/blob/master/assets/images/cover_image_quote.png)
     
 * 3R's Section
     * The 3R’s section will give the user a visual break down of the best way to live more sustainably and environmentally friendly. There will be a color and text distinction for each section.
     * Each block section will have a flip functionality that when flipped by hovering the mouse over the card there will be additional information on the back.
 
-![Summary section for Reuse, Reduse and Recycle no flip](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/summary%20section%20no%20flip.jpg)
+![Summary section for Reuse, Reduse and Recycle no flip](https://github.com/deanwraith/recycling/blob/master/assets/images/3r_section_no_flip.png)
 
-![Summary section for Reuse, Reduse and Recycle with flip](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/summary%20section%20with%20flip.jpg)
+![Summary section for Reuse, Reduse and Recycle with flip](https://github.com/deanwraith/recycling/blob/master/assets/images/3r_section_flip.png)
 
 * The Footer
     * The footer will include links to various social media sites.
 
-![Footer containing social media links](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/footer.png)
+![Footer containing social media links](https://github.com/deanwraith/recycling/blob/master/assets/images/footer.png)
 
 
 * Reuse, Reduce and Recycle
     * Each of the concepts will have a page that has images and video resources with text descriptions and helpful tips on how to implement them in your everyday life.
     * All three pages will have the same format and structure for ease of use and visual comfort. The pages will also have the same header and footer structure as the rest of the site.
 
-![Reuse page](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/reuse%20page.png)
+![Reuse page](https://github.com/deanwraith/recycling/blob/master/assets/images/reuse_page.png)
 
-![Reduce page](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/reudce%20page.png)
+![Reduce page](https://github.com/deanwraith/recycling/blob/master/assets/images/reduce_page.png)
 
-![Recycle page](https://github.com/deanwraith/recycling/blob/master/assets/images/recycle%20page.jpg)
+![Recycle page](https://github.com/deanwraith/recycling/blob/master/assets/images/recycle_page.png)
 
 * Q&A/Ask a question Page
     * This page will have some frequently asked questions with the answers and a form where any other questions can be sent in and answered.
 
-![Question form](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/faq%20form.png)
+![Question form](https://github.com/deanwraith/recycling/blob/master/assets/images/faq_form.png)
 
-![FAQ section](https://github.com/deanwraith/recycling/blob/master/assets/images/readme-images/faq%20questions.png)
+![FAQ section](https://github.com/deanwraith/recycling/blob/master/assets/images/faq-page.png)
 
 ### 1.3 Features to be Added
 *Features can be discussed and added*
