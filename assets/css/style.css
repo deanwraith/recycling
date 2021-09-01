@@ -287,7 +287,7 @@ footer {
 }
 
 .tips {
-  line-height: 35px;
+  line-height: 30px;
   list-style-type: none;
   margin: 0 10px 0 10px;
 }
@@ -401,5 +401,17 @@ input[type=submit] {
 
   .dropbtn {
     font-size: 25px;
+  }
+
+  #recycle-image {
+    width: 100%;
+  }
+
+  #reduce-image {
+    width: 100%;
+  }
+
+  #reuse-image {
+    width: 100%;
   }
 }
