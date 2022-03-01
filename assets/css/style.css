@@ -434,15 +434,15 @@ input[type=submit] {
   }
 
   #recycle-image-info {
-    width: 100%;
+    width: 95%;
   }
 
   #reduce-image-info {
-    width: 100%;
+    width: 95%;
   }
 
   #reuse-image-info {
-    width: 100%;
+    width: 95%;
   }
 
 }
