@@ -218,6 +218,12 @@ footer {
   background: url(../images/recycling_bottles.jpg) no-repeat center center;
 }
 
+#reuse-image-info {
+  height: 300px;
+  width: 450px;
+  background: url(../images/reuse.png) no-repeat center center;
+}
+
 /* reduce styling */
 
 .flex-container-reduce {
@@ -252,6 +258,12 @@ footer {
   background: url(../images/reuse_clothes.jpg) no-repeat center center;
 }
 
+#reduce-image-info {
+  height: 300px;
+  width: 450px;
+  background: url(../images/reduce.png) no-repeat center center;
+}
+
 /* recycle styling */
 
 .flex-container-recycle {
@@ -284,6 +296,12 @@ footer {
   height: 300px;
   width: 450px;
   background: url(../images/recycling_plants.jpg) no-repeat center center;
+}
+
+#recycle-image-info {
+  height: 300px;
+  width: 450px;
+  background: url(../images/recycle.png) no-repeat center center;
 }
 
 .tips {
@@ -415,8 +433,16 @@ input[type=submit] {
     width: 100%;
   }
 
-  iframe {
+  #recycle-image-info {
     width: 100%;
-    height: 300px;
   }
+
+  #reduce-image-info {
+    width: 100%;
+  }
+
+  #reuse-image-info {
+    width: 100%;
+  }
+
 }
