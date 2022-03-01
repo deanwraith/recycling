@@ -221,7 +221,7 @@ footer {
 #reuse-image-info {
   height: 300px;
   width: 450px;
-  background: url(../images/recycle.jpg) no-repeat center center;
+  background: url(../images/reuse_resized.jpg) no-repeat center center;
 }
 
 /* reduce styling */
@@ -261,7 +261,7 @@ footer {
 #reduce-image-info {
   height: 300px;
   width: 450px;
-  background: url(../images/reduce.jpg) no-repeat center center;
+  background: url(../images/reduce_resized.jpg) no-repeat center center;
 }
 
 /* recycle styling */
@@ -301,7 +301,7 @@ footer {
 #recycle-image-info {
   height: 300px;
   width: 450px;
-  background: url(../images/recycle.jpg) no-repeat center center;
+  background: url(../images/recycle_resized.jpg) no-repeat center center;
 }
 
 .tips {
